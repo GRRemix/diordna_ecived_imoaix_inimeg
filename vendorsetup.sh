@@ -1,1 +1,1 @@
-add_lunch_combo rremix_gemini-userdebug
+add_lunch_combo lineage_gemini-userdebug
